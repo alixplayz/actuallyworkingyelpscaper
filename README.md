@@ -11,3 +11,6 @@ Lol, the code kind of sucks, because I'm bad at coding, so don't use it if you c
 - In rare cases the "owner names" will be something strange like "1 week" or some random element it gets from Yelp. Just make sure to go through the sheet once and clean up any mistakes it makes.
 
 Good luck, lol!
+
+
+FOR LEGAL REASONS ONLY USE THIS IS YOU HAVE PERMISSION FROM YELP!!! 😉😉😉😉
